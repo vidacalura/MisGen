@@ -112,3 +112,67 @@ dados.push(new Musica(
     "Saki AI",
     "V"
 ));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/fM5EsLHssns",
+    "少女Aを歌いました / rei sirose",
+    "椎名もた / ぽわぽわP (siinamota / PowapowaP)",
+    "rei sirose",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube-nocookie.com/embed/ucbx9we6EHk",
+    "【MV】女の子になりたい まふまふ",
+    "まふまふ (mafumafu)",
+    "まふまふ (mafumafu)",
+    "M"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/2EmstVQeEiA",
+    "【Ado】ダーリンダンス 歌いました",
+    "かいりきベア (Kairiki Bear)",
+    "Ado",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/zh-4M5blbiI",
+    "和田アキ子 ｰ YONA YONA DANCE",
+    "フレデリック (FREDERIC)",
+    "和田アキ子 (Wada Akiko)",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/mPhNTys79xE",
+    "【Cover】レミングミング(Lemming Ming) - いかさん/IKASAN",
+    "かいりきベア (Kairiki Bear)",
+    "いかさん (IKASAN)",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/FNflOu2sl60",
+    "ステラの座 / 雄之助 feat. 星界",
+    "雄之助 (Yunosuke)",
+    "星界 (SEKAI)",
+    "V"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/G9LXGvr7Nyc",
+    "【公式】 ネロイズム かいりきベア feat.鳴花ミコト",
+    "かいりきベア (Kairiki Bear)",
+    "鳴花ミコト (Meikahime Mikoto)",
+    "V"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/ZhuJX-Br3Ak",
+    "シュガリィ・エピローグ／西憂花 feat.可不(KAFU)",
+    "西憂花 (NishiYuuka)",
+    "可不 (KAFU)",
+    "V"
+));
