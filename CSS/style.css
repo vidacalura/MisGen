@@ -1,0 +1,88 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+body{
+
+    background-color: #21222B;
+    color: #CCC;
+    padding-top: 6vh;
+
+}
+
+.p-final{
+
+    padding-top: 20vh;
+    font-size: 48px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+
+}
+section *{
+
+    display: flex;
+    justify-content: center;
+
+}
+#iframe-div{
+
+    padding-top: 2vh;
+
+}
+#musica-iframe{
+
+    box-shadow: 5px 5px 13px rgb(0, 0, 0, 0.5);
+    border-radius: 6px;
+    width: 50vw;
+    height: 55.4vh;
+
+}
+
+#guess-btn-div,
+#texto-div{
+
+    padding: 1rem;
+
+}
+#guess-btn-div{
+
+    gap: 1.8rem;
+
+}
+
+.guess-btn{
+
+    background-color: #41444B;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 1rem 1.5rem;
+    border-radius: 16px;
+    box-shadow: 3px 3px 17px rgb(0, 0, 0, 0.4);
+    cursor: pointer;
+    transition: ease-in-out all 0.1s;
+
+}
+.guess-btn:hover{
+
+    background-color: #CCC;
+    color: #41444B;
+
+}
+
+footer{
+
+    color: #999;
+    position: absolute;
+    bottom: 0;
+    font-size: 10px;
+    padding: 0.75rem;
+
+}
