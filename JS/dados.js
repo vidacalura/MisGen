@@ -176,3 +176,67 @@ dados.push(new Musica(
     "可不 (KAFU)",
     "V"
 ));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/oLfxVwlXluU",
+    "Habit / SEKAI NO OWARI 全部僕の声",
+    "SEKAI NO OWARI",
+    "緑仙 (Ryushen)",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/k1d3E1zeVzI",
+    "抜錨 / ナナホシ管弦楽団 -Cover- ウォルピスカーター",
+    "ナナホシ管弦楽団 (nanahoshi orchestra)",
+    "ウォルピス社 (Wolpiscarter)",
+    "M"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/mhIz_V8r01Y",
+    "【音楽的同位体】霞がついてくる covered by 星界",
+    "はるまきごはん (Harumaki Gohan)",
+    "星界 (SEKAI)",
+    "V"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/2DqWNaAztvs",
+    "降伏論 / 宮下遊(Official Video)",
+    "MYTH&ROID",
+    "宮下遊 (Miy Yuu)",
+    "M"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/vhYsFIDAt2I",
+    "有機酸/ewe「カトラリー」(self cover) MV",
+    "有機酸 (Yoh Kamiyama)",
+    "有機酸 (Yoh Kamiyama)",
+    "M"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/pGcORVUfJFg",
+    "有夜無夜 / 獅子志司 MV",
+    "獅子志司 (shishi shishi)",
+    "獅子志司 (shishi shishi)",
+    "M"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/Ld3_rB1GwsU",
+    "【Shiki Miyoshino】Lucifer - ¿? 【Cover】",
+    "¿?shimon",
+    "Shiki Miyoshino (美吉野しき)",
+    "F"
+));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/w05NM9YFhmk",
+    "【波音リツ】Abstract Nonsense アブストラクト・ナンセンス【UTAUカバー】",
+    "Neru",
+    "波音リツ (Namine Ritsu)",
+    "V"
+));

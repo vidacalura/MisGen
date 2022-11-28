@@ -51,7 +51,7 @@ function gerarMusica(){
     // Fazer músicas não se repetir
     dados.splice(dados.indexOf(musicaAtual), 1);
 
-    musicaFrame.src = musicaAtual.embedLink;
+    musicaFrame.src = musicaAtual.embedLink + "?modestbranding=1&autohide=1&showinfo=0&controls=0";
 
 }
 
