@@ -39,7 +39,7 @@ section *{
     box-shadow: 5px 5px 13px rgb(0, 0, 0, 0.5);
     border-radius: 6px;
     width: 50vw;
-    height: 55.4vh;
+    height: 28.2vw;
 
 }
 
@@ -84,5 +84,29 @@ footer{
     bottom: 0;
     font-size: 10px;
     padding: 0.75rem;
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    
+    #musica-iframe{
+
+        width: 80vw;
+        height: 45.12vw;
+
+    }
+
+    #guess-btn-div{
+
+        gap: 0.5rem;
+
+    }
+    .guess-btn{
+
+        font-size: 14px;
+        padding: 0.75rem 1rem;
+
+    }
 
 }
