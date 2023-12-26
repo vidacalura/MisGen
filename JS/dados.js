@@ -242,7 +242,7 @@ dados.push(new Musica(
 ));
 
 dados.push(new Musica(
-    "https://www.youtube.com/watch?v=UMtHhEyfLp8",
+    "https://www.youtube.com/embed/UMtHhEyfLp8",
     "劇団Cちゃん  YASUHIRO(康寛) feat.狐子",
     "康寛 (Yasuhiro)",
     "狐子 (Coko)",
