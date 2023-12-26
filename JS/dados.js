@@ -240,3 +240,11 @@ dados.push(new Musica(
     "波音リツ (Namine Ritsu)",
     "V"
 ));
+
+dados.push(new Musica(
+    "https://www.youtube.com/watch?v=UMtHhEyfLp8",
+    "劇団Cちゃん  YASUHIRO(康寛) feat.狐子",
+    "康寛 (Yasuhiro)",
+    "狐子 (Coko)",
+    "V"
+));
