@@ -248,3 +248,11 @@ dados.push(new Musica(
     "狐子 (Coko)",
     "V"
 ));
+
+dados.push(new Musica(
+    "https://www.youtube.com/embed/LLjfal8jCYI",
+    "オーバーライド - 重音テトSV[吉田夜世]",
+    "吉田夜世 (Yasei Music)",
+    "重音テトSV (Synthesizer V Kasane Teto)",
+    "V"
+));
